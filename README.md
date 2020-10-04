@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=frankeld&repo=fitbuds)](https://github.com/frankeld/fitbuds)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=frankeld&repo=amicus)](https://github.com/frankeld/amicus)
+
+
+
 <!--
 **frankeld/frankeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
